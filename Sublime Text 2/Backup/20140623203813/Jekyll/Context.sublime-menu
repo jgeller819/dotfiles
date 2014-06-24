@@ -1,0 +1,20 @@
+[
+    { "caption": "-", "id":"jekyll-context-separator-top"},
+    {
+        "caption": "Jekyll", "id":"jekyll-context-main",
+        "children":
+        [
+            {
+                "caption": "Insert current date",
+                "command": "jekyll_insert_date",
+                "args": {"format": "date"}
+            },
+            {
+                "caption": "Insert current datetime",
+                "command": "jekyll_insert_date",
+                "args": {"format": "datetime"}
+            }
+        ]
+    },
+    { "caption": "-", "id":"jekyll-context-separator-bottom"},
+]

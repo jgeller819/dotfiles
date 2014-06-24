@@ -1,0 +1,33 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[{
+	    	"caption": "Word Count",
+	    	"id": "latex_word_count",
+	    	"command": "latex_word_count"
+	    }]
+	},
+    {
+        "id": "preferences", 
+        "children":
+        [{
+        	"id": "package-settings", 
+        	"children":
+        	[{
+        		"caption": "LaTeX Word Count", 
+        		"children":
+        		[{
+        			"caption": "Settings – Default", 
+        			"args": { "file": "${packages}/LaTeX Word Count/LaTeXWordCount.sublime-settings" },
+    				"command": "open_file"
+				},
+				{
+					"caption": "Settings – User",
+					"args": { "file": "${packages}/User/LaTeXWordCount.sublime-settings" },
+					"command": "open_file"
+				}]
+			}]
+		}]
+	}
+]

@@ -1,0 +1,1213 @@
+{
+	"folder_history":
+	[
+		"/Users/joshgeller/Forward Labs/jgeller819.github.io",
+		"/Users/joshgeller/Documents/Williams/cs339/Final",
+		"/Users/joshgeller/Developer/newEG/New Structure of Web App",
+		"/Users/joshgeller/Documents/Williams/Thesis/JoshThesis",
+		"/Users/joshgeller/Downloads/visual_encoding",
+		"/Users/joshgeller/Documents/Williams/Thesis",
+		"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam",
+		"/Users/joshgeller/Downloads/Josh-RECompiler-Starter-Scala",
+		"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434",
+		"/Users/joshgeller/Downloads/RECompiler-Starter-Scala",
+		"/Users/joshgeller/Downloads/NFASimulator-Starter",
+		"/Users/joshgeller/Forward Labs/KYUR8/KYUR8-backend",
+		"/Users/joshgeller/Dropbox/newEG/Web App Code",
+		"/Users/joshgeller/Documents/Williams/Research/Summer '13",
+		"/Users/joshgeller/Developer/newEG/EconGraph_SubjectPage",
+		"/Users/joshgeller/Developer/newEG/jsGraphsCode",
+		"/Users/joshgeller/Downloads/EconGraph_SubjectPage",
+		"/Users/joshgeller/Downloads/EconGraph_Test",
+		"/Users/joshgeller/Documents/Williams/Research/Summer '13/matlabcode",
+		"/Users/joshgeller/Documents/Williams/Summer '13/final_copy",
+		"/Users/joshgeller/Documents/Williams/Summer '13/Salamanders",
+		"/Users/joshgeller/Forward Labs/KYUR8",
+		"/Users/joshgeller/Developer/EconGrapher/EconGrapher",
+		"/Users/joshgeller/.rvm/gems/ruby-1.9.3-p194@kyur8/gems/whenever-0.7.3/lib/whenever",
+		"/Users/joshgeller/Forward Labs/layouts-kyur8",
+		"/Users/joshgeller/Forward Labs/Book-Drive",
+		"/usr/local/heroku",
+		"/Users/joshgeller/Forward Labs/KYUR8/KYUR8",
+		"/usr/bin",
+		"/usr/local/bin"
+	],
+	"last_window_id": 119,
+	"settings":
+	{
+		"new_window_height": 852.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"short",
+						"shortcite"
+					],
+					[
+						"e",
+						"enum	Enumerate"
+					],
+					[
+						"sec",
+						"sec	Section"
+					],
+					[
+						"data",
+						"datasets"
+					],
+					[
+						"tab",
+						"table	Table"
+					],
+					[
+						"Fea",
+						"cha:multiclass_feature_selection"
+					],
+					[
+						"binaryEqua",
+						"binaryEquality3"
+					],
+					[
+						"sub",
+						"sub	Sub Section"
+					],
+					[
+						"cha",
+						"cha:related_work"
+					],
+					[
+						"probab",
+						"probabilities"
+					],
+					[
+						"foldCSRemo",
+						"foldCSRemovedFeaturesIntersection"
+					],
+					[
+						"foldCSRemoved",
+						"foldCSRemovedFeaturesCount"
+					],
+					[
+						"foldCSRemovedF",
+						"foldCSRemovedFeaturesCount"
+					],
+					[
+						"foldCSRemovedFe",
+						"foldCSRemovedFeaturesIntersection"
+					],
+					[
+						"foldCSremove",
+						"foldCSRemovedFeaturesIntersection"
+					],
+					[
+						"compositeSummed",
+						"compositeSummedRemovedFeaturesIntersection"
+					],
+					[
+						"foldCSRemov",
+						"foldCSRemovedFeaturesIntersection"
+					],
+					[
+						"numFeatures",
+						"numFeaturesRemoved"
+					],
+					[
+						"numFe",
+						"numFeaturesRemoved"
+					],
+					[
+						"remainingFea",
+						"remainingFeatures"
+					],
+					[
+						"Arnos",
+						"ArnostiScore"
+					],
+					[
+						"remainingFe",
+						"remainingFeatures"
+					],
+					[
+						"removedF",
+						"removedFeature"
+					],
+					[
+						"foldRemoved",
+						"foldRemovedIntersection"
+					],
+					[
+						"removedFea",
+						"removedFeaturesIntersection"
+					],
+					[
+						"remain",
+						"remainingFeatures"
+					],
+					[
+						"filterE",
+						"filterExamplesForClasses"
+					],
+					[
+						"overal",
+						"overallFeatureNorms"
+					],
+					[
+						"predict",
+						"predictRawProbabilityOfClassForExample  (function)"
+					],
+					[
+						"Value",
+						"ValueError	error"
+					],
+					[
+						"Macr",
+						"MacroPrecision  (class)"
+					],
+					[
+						"compositeIndiv",
+						"compositeIndividualFeatureRankings"
+					],
+					[
+						"runEx",
+						"runExperimentWithFoldBounds"
+					],
+					[
+						"calculate",
+						"calculateProbabilitiesAndClassLabels"
+					],
+					[
+						"removedFe",
+						"removedFeatures"
+					],
+					[
+						"compositeIndi",
+						"compositeIndividualFeatureCounts"
+					],
+					[
+						"foldCI",
+						"foldCIRemainingFeaturesCount"
+					],
+					[
+						"prep",
+						"prepFirstSynth"
+					],
+					[
+						"calcul",
+						"calculateAccuracy"
+					],
+					[
+						"datas",
+						"dataSubsetWithRelevantFeatures"
+					],
+					[
+						"dataSub",
+						"dataSubsetWithRelevantFeatures"
+					],
+					[
+						"compositeSum",
+						"compositeSummedFeatureRanks"
+					],
+					[
+						"Compos",
+						"CompositeSummedClassifier"
+					],
+					[
+						"blackBoxAccu",
+						"blackBoxAccuracies"
+					],
+					[
+						"compositeAccura",
+						"compositeAccuracies"
+					],
+					[
+						"blackBoxAc",
+						"blackBoxAccuracies"
+					],
+					[
+						"compositeAccuracyP",
+						"compositeAccuracyPre"
+					],
+					[
+						"blackBoxAcu",
+						"blackBoxAccuracyPre"
+					],
+					[
+						"compositeAc",
+						"compositeAccuracyPost"
+					],
+					[
+						"blackBoxAccur",
+						"blackBoxAccuracyPost"
+					],
+					[
+						"methodDeclar",
+						"methodDeclarations"
+					],
+					[
+						"symbol",
+						"symbolTable"
+					],
+					[
+						"Abstract",
+						"AbstractMethodDeclaration"
+					],
+					[
+						"getClass",
+						"getClassOrInterfaceSymbol"
+					],
+					[
+						"Abstrac",
+						"AbstractMethodDeclaration"
+					],
+					[
+						"Optim",
+						"OptimizationError"
+					],
+					[
+						"Availab",
+						"AvailableExpressionsAnalysis"
+					],
+					[
+						"Copy",
+						"CopyPropagationOptimizer"
+					],
+					[
+						"Common",
+						"CommonSubExpressionElimination"
+					],
+					[
+						"dest",
+						"destination"
+					],
+					[
+						"TACI",
+						"TACInstructions"
+					],
+					[
+						"ConstantFolding",
+						"ConstantFoldingAnalysis"
+					],
+					[
+						"Control",
+						"ControlFlowGraph"
+					],
+					[
+						"TACIns",
+						"TACInstruction"
+					],
+					[
+						"instance",
+						"instanceOf"
+					],
+					[
+						"ControlFl",
+						"ControlFlowGraphError"
+					],
+					[
+						"c",
+						"continue"
+					],
+					[
+						"correc",
+						"correctIndex"
+					],
+					[
+						"corre",
+						"correctIndex"
+					],
+					[
+						"expr",
+						"expression"
+					],
+					[
+						"resolve",
+						"resolveAccess"
+					],
+					[
+						"SymTab",
+						"SymTabConstructor"
+					],
+					[
+						"Symbol",
+						"SymbolTable"
+					],
+					[
+						"Sym",
+						"SymbolTable"
+					],
+					[
+						"fullPr",
+						"fullProbability"
+					],
+					[
+						"shen",
+						"shenScore"
+					],
+					[
+						"assignments",
+						"arnostiScoreBinary(assignments, fullClf, fullProbs, partialClf, partialProbs)"
+					],
+					[
+						"arno",
+						"arnostiScoreBinary"
+					],
+					[
+						"arn",
+						"arnostiScoreBinary"
+					],
+					[
+						"shenSc",
+						"shenScoreBinary"
+					],
+					[
+						"parti",
+						"partialProbability"
+					],
+					[
+						"fullP",
+						"fullProbability"
+					],
+					[
+						"class",
+						"classifyDataWithAllFeatures"
+					],
+					[
+						"f",
+						"for	for - Block"
+					],
+					[
+						"Down",
+						"DownTypeEnvironment"
+					],
+					[
+						"trans",
+						"transitionTable"
+					],
+					[
+						"parseGene",
+						"parseGeneFromStringWithOffset"
+					],
+					[
+						"SV",
+						"Svd_Size"
+					],
+					[
+						"s_int_p",
+						"s_int_p"
+					],
+					[
+						"y_interc",
+						"y_intercept_value"
+					],
+					[
+						"intersec",
+						"intersectionLine"
+					],
+					[
+						"generateInt",
+						"generateIntersectionLine"
+					],
+					[
+						"false",
+						"false"
+					],
+					[
+						"qS_p",
+						"qS_p  (variable)"
+					],
+					[
+						"generateShifte",
+						"generateShiftedDemandLine"
+					],
+					[
+						"translateOn",
+						"translateOntoScreen  (function)"
+					],
+					[
+						"generateCen",
+						"generateCenterLines"
+					],
+					[
+						"reca",
+						"recalculateIntersections"
+					],
+					[
+						"recalc",
+						"recalculateSurpluses"
+					],
+					[
+						"generateDem",
+						"generateDemandLine"
+					],
+					[
+						"generateFull",
+						"generateFullDemandLine"
+					],
+					[
+						"showMar",
+						"showMark"
+					],
+					[
+						"selec",
+						"selectedValue"
+					],
+					[
+						"Ada",
+						"AdaBoostContainer"
+					],
+					[
+						"Classifier",
+						"Classifier"
+					],
+					[
+						"maxC",
+						"maxClass"
+					],
+					[
+						"maxCla",
+						"maxClassOutput"
+					],
+					[
+						"cl",
+						"cl	class"
+					],
+					[
+						"possib",
+						"possibilities"
+					],
+					[
+						"possibil",
+						"possibilityString"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"Rout",
+						"RoutingError  (class)"
+					],
+					[
+						"view",
+						"view"
+					],
+					[
+						"repub",
+						"repub"
+					],
+					[
+						"redis_feed",
+						"redis_feed_wrap"
+					],
+					[
+						"to_",
+						"to_s"
+					],
+					[
+						"Kyu",
+						"Kyur8Wrappers"
+					],
+					[
+						"reve",
+						"reverse"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"findk",
+						"FindKeyConflicts: All Key Maps to Buffer"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Cases"
+					],
+					[
+						"snippet",
+						"Snippet: Display Math — \\[ … \\]"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Key Maps to Buffer"
+					],
+					[
+						"find",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"jslint",
+						"JSLint: Run JSLint"
+					],
+					[
+						"cython",
+						"Set Syntax: Cython"
+					],
+					[
+						"print",
+						"Print to HTML: print as HTML via browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"Sublime",
+						"SublimeREPL: Shell"
+					],
+					[
+						"prin",
+						"Print to HTML: print as HTML via browser"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ens",
+						"Ensime: Startup"
+					],
+					[
+						"Ensi",
+						"Ensime: Startup"
+					],
+					[
+						"toggle",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Git: Pus",
+						"Git: Push"
+					],
+					[
+						"Git: Pul",
+						"Git: Pull"
+					],
+					[
+						"Git: stash",
+						"Git: Stash Changes"
+					],
+					[
+						"Git: Pu",
+						"Git: Pull"
+					],
+					[
+						"Git: stat",
+						"Git: Status"
+					],
+					[
+						"Git: Com",
+						"Git: Commit"
+					],
+					[
+						"Git: add",
+						"Git: Add..."
+					],
+					[
+						"indent",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Git ",
+						"Git: Status"
+					],
+					[
+						"Git: pu",
+						"Git: Pull"
+					],
+					[
+						"Git: com",
+						"Git: Commit"
+					],
+					[
+						"tab",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"jsLint",
+						"JSLint: Run JSLint"
+					],
+					[
+						"gi",
+						"Git: Commit"
+					],
+					[
+						"Git: Add",
+						"Git: Add..."
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"Bracket",
+						"BracketHighlighter: Match Brackets (ignore threshold)"
+					],
+					[
+						"",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lin",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"Package Control: Remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: Remove Package ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/joshgeller/Documents/Williams/Thesis/JoshThesis/abstract_2.tex",
+				"/Users/joshgeller/Documents/Williams/Thesis/JoshThesis/abstract.tex",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/hello.sublime_snippet",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Jekyll/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/SVN/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Terminal/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Ensime/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Print to HTML/Default (OSX).sublime-keymap",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools Preferences.sublime-settings",
+				"/Users/joshgeller/Documents/Williams/Thesis/BigExperiment/CalculateIntersections.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Bigger Datasets/ConvertToPNG.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/classifiers/naive_bayes.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/Combine",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/runExperiment",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/ExperimentDriver.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Thesis/Experiment.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Thesis/runExperiment.sh",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/CombineFolds.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Thesis/DistributionCalculator.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Other/ConvertToPNG.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Bash Scripts",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/Datasets/__init__.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/scores/scores.py",
+				"/Users/joshgeller/Forward Labs/Rebellion.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/Datasets/initialize.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/Experiment.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/runExperiment.sh",
+				"/Users/joshgeller/Documents/Williams/Thesis/Smaller Datasets/ConvertToPNG.py",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/DistributionCalculator.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Other/DistributionCalculator.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Bigger Datasets/README.txt",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/scores/scores2.pyx",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/classifiers/__init__.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/runTree",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/runKNN",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/runSVM",
+				"/Users/joshgeller/Documents/Williams/Thesis/Bigger Datasets/ConvertToGraph.png",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/scores/__init__.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/scores/scores.pyx",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/clfs/naive_bayes.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/clfs/__init__.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/classifiers/__init__.py.py",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/Users/joshgeller/Library/Application Support/Sublime Text 2/Packages/DetectSyntax/DetectSyntax.sublime-settings",
+				"/Users/joshgeller/Documents/Williams/Thesis/Multiclass proposal.synctex.gz",
+				"/Users/joshgeller/Documents/Williams/Thesis/JoshThesis/thesis.tex",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/Expr1.py",
+				"/Users/joshgeller/Documents/Williams/Thesis/Python Code/DataSets.py",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/benchmark.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/f_4.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/f_3.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/p_0.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/p_1.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/p_4.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/p_3.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/p_2.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/f_0.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/f_1.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/benchmark.java",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/benchmark.ic.java",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/f_2.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/interface/f_2.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/assemble",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/libic64-src/Makefile",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/libic64-src/README.txt",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/libic64-src/src/libic.c",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/code_generation/matrixmult.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/code_generation/CodeGenerator.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/code_generation/fib.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/parser/sym.java",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/ConstantFolding.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/CopyPropagationOptimizer.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/symbol_table/SymbolTablePrinter.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/ConstantFoldingAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/AvailableExpressionsAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/DataFlowAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/DataFlowAnalysisPrinter.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/LiveVariableAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/ReachableAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/ReachingCopiesAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/data_flow_analysis/ReachingDefinitionsAnalysis.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/CommonSubExpressionElimination.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/ReachingDefinitionsOptimizer.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/UnreachableCodeElimination.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/Optimization.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/optimize/DeadCodeElimination.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/parser/parser.java",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/dce_0.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cfo_0.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse_0.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/Compiler.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/control_flow_graph/ControlFlowGraphGenerator.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/ast/ASTPrinter.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/ast/ICNode.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse_0_original.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/dce_0.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/control_flow_graph/ControlFlowGraph.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse_original.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse_0.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse.ic",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/tac/TAC.scala",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cse_0_optimized.s",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/ic/parser/ic.cup",
+				"/Users/joshgeller/Documents/Williams/Fall '13/cs434/svn434/ICC-Bantam/test/optimize/cfo_1.s"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8",
+					"<project>",
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8",
+					"<project>",
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8",
+					"<project>",
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8",
+					"<project>",
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8-backend/app",
+					"<project>",
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8",
+					"/Users/joshgeller/Forward Labs/KYUR8/KYUR8/nimbus"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"Append",
+					"generalization",
+					"generaliation",
+					"tres versus",
+					"Ramas",
+					"Appendix",
+					"\\\\section",
+					"John ",
+					"Pattern classi",
+					"pattern class",
+					"cancer",
+					"cite",
+					"shortcite",
+					"te\\{",
+					"shortcite",
+					"cite",
+					"it\\{",
+					"\\\\shortcite",
+					"decision trees",
+					"of the composite ",
+					"weston",
+					"et al",
+					"classifier is",
+					"thee",
+					"after removing the",
+					"C4.5",
+					"I investiga",
+					"ISOLET",
+					"\\\\cite",
+					"within",
+					"nb_arn",
+					"na",
+					"na\\\\",
+					"cite",
+					"two scoring fun",
+					"cite",
+					"Adaboost",
+					"pagestyle",
+					"\\\\mathcal\\{X\\}",
+					"\\\\mathcal\\{Y\\}",
+					"She",
+					"J. Mach. Learn. Res.",
+					"Journal of Machine Lear",
+					"Mach",
+					"ICML",
+					"In ICML",
+					"Journal",
+					"Liu",
+					"quinlan",
+					"ICML",
+					"@misc",
+					"ISOLET",
+					"He",
+					"variable",
+					"Y_\\{i\\}",
+					"Y_{i}",
+					"Ramaswamy",
+					"shen",
+					"summed by rank",
+					"    ",
+					"The $1$",
+					"sum by score",
+					"weighted sum by score",
+					"summed by score",
+					"two class",
+					"multiclass",
+					"$x",
+					"I propose",
+					"x_\\{i\\}",
+					"width=15cm",
+					"Appendix.tex",
+					"\\\\cite\\{uciDatasets\\}",
+					"cite{uciDatasets}",
+					"\\cite{uciDatasets}",
+					"kernel",
+					"support",
+					"vapnik",
+					"ch:",
+					"y_\\{i\\} =",
+					"y_\\{i\\} = y",
+					"y = y_\\{i\\}",
+					"There are or",
+					"Fi",
+					"Forward",
+					"\\$n\\$",
+					"$n$",
+					"tab",
+					"$$",
+					"in practi",
+					"super\\+l",
+					"join",
+					"super\\+l",
+					"super+",
+					"calculateRank",
+					"calculateAccuracies",
+					"calculateRankings",
+					"calculateRank",
+					"classify",
+					"runExperimentWithFoldBoun",
+					"runExperimentWIthFold",
+					"print",
+					"Ranking",
+					"self.allRemain",
+					"if testData",
+					"precomputed",
+					"nprocs",
+					"printStats",
+					"numFeaturesRemoved",
+					"scores.ArnostiScore",
+					"print",
+					"numProcess",
+					"calculateScore",
+					"CompositeInd",
+					"removeFeature",
+					"prepData",
+					"return np.array\\(barray\\)",
+					"rankFea",
+					"meanCIC",
+					"remaining",
+					"RemainingF",
+					"print",
+					"foldCIRemainingFea",
+					"print",
+					"calculateRank",
+					"print",
+					"filter",
+					"plt",
+					"sd"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"cite",
+					"\\cite",
+					"Isolet",
+					"\\\\shortcite",
+					"\\shortcite",
+					"shortcite",
+					"AdaBoost",
+					"X",
+					"Y",
+					"The Journal of Machine Learning Research",
+					"Isolet",
+					"Y_{k}",
+					"sum of ranks",
+					"weighted sum of scores",
+					"sum of scores",
+					"two-class",
+					"multi-class",
+					"width=12cm",
+					"",
+					"y =",
+					"y = y_{i}",
+					"y_{i} = y",
+					" \n",
+					"$k$",
+					"minRowCount",
+					"return np.array(barray), None",
+					"examplesWithFeatureSubset",
+					"in countDict.iteritems()",
+					"classifier.classes_",
+					"worstFeature",
+					"worstScore",
+					"examplesWithFeatureSubset",
+					"Rs",
+					"ImplementedMethodDeclaration",
+					"BinaryOperator",
+					"iS",
+					"mp.is",
+					"l : Constant",
+					"asInstanceOf[\\1]",
+					".icnode.line",
+					"HashMap",
+					"range",
+					" xrange",
+					"CPAREN",
+					"OPAREN",
+					"CBRACE",
+					"OBRACE",
+					"BRACE",
+					"DownTypeEnvironment",
+					"Int",
+					"HashMap[REString, RENode]",
+					"HashMap[REString,RENode]",
+					"score",
+					"blue",
+					"3",
+					"params",
+					"supply",
+					"y",
+					"x",
+					"d_int",
+					"s_int",
+					"s_slope",
+					"d_slope",
+					"s_slope",
+					"s_int",
+					"d_int",
+					"view",
+					"/api/v1",
+					"zine"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.git":
+			{
+				"height": 108.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 114.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"KYUR8-backend/.gitignore"
+					],
+					[
+						"zines_con",
+						"KYUR8-backend/app/controllers/api/v2/zines_controller.rb"
+					],
+					[
+						"config/inializers/redis",
+						"KYUR8-backend/config/initializers/redis.rb"
+					],
+					[
+						"user.r",
+						"KYUR8-backend/app/models/user.rb"
+					],
+					[
+						"project.",
+						"KYUR8/KYUR8.xcodeproj/project.pbxproj"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"route",
+						"routes.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 167.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
